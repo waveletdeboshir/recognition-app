@@ -1,0 +1,2 @@
+models/whisper-base/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+wavs/*.wav filter=lfs diff=lfs merge=lfs -text
